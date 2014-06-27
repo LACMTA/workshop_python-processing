@@ -1,4 +1,7 @@
-workshop_python-processing
+Metro python-processing workshop :: home
 ==========================
 
-Files for the first Python/Processing workshop, 2014
+	Python/Processing workshop, 2014
+	contact: Douglas Goodwin
+	goodwind@metro.net
+
